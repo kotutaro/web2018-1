@@ -8,3 +8,4 @@ function taro(){
 function hanako(){
   who = '花子';
 }
+
